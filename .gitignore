@@ -1,0 +1,8 @@
+#Node Modules
+**/node_modules
+
+#Nuxt build
+.nuxt
+
+#Logs
+**.log

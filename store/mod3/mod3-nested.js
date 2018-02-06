@@ -1,4 +1,6 @@
-export default {
+
+
+export const actions = {
   inc1({commit}) {
     commit('inc1')
   },
